@@ -10,4 +10,4 @@ Nesse repositório há uma breve análise sobre os 36 funcionários cadastrados 
 - [Pandas](https://pandas.pydata.org/)
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/)
-- [Numpy] (https://numpy.org/doc/)
+- [Numpy](https://numpy.org/doc/)
