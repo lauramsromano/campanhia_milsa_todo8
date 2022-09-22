@@ -1,6 +1,6 @@
 <h1 align="center">Análise do conjunto de dados sobre a Companhia Milsa. - ToDo 8</h1>
 
-Nesse repositório há uma breve análise sobre os 36 funcionários cadastrados na seção de orçamentos. 
+Nesse repositório há uma breve análise estatística descritiva sobre os 36 funcionários cadastrados na seção de orçamentos da Companhia Milsa.
 
 #### :computer: <strong>Tecnologias utilizadas:</strong>
 - [Google Colab](https://colab.research.google.com/)
